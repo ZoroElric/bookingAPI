@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="webDemo:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/webDemo_war2</output-path>
+    <root id="archive" name="webDemo_war.war">
+      <element id="artifact" artifact-name="webDemo:war exploded" />
+      <element id="module-output" name="webDemo" />
+    </root>
+  </artifact>
+</component>
